@@ -1,5 +1,8 @@
 # GameBlog
+
 关于游戏开发的记录
+
+![cover](https://github.com/hahahuahai/GameBlog/blob/master/media/bg.png)
 
 # 分类
 
